@@ -1,0 +1,10 @@
+{
+  "name": "iwritelists-testbot",
+  "version": "0.1.0",
+  "author": "No More Sugar <http://nomoresugar.github.io/>",
+  "main": "testBot.js",
+  "description": "IWriteLists testing bot",
+  "dependencies": {
+    "traverse": "0.6.6"
+  }
+}
